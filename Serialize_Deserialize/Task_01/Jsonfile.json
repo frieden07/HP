@@ -1,0 +1,50 @@
+[
+    {
+        "id": 9,
+        "name": "Shivanshu",
+        "class": "comp",
+        "score": 78.0
+    },
+    {
+        "id": 2,
+        "name": "Abhishek",
+        "class": "IT",
+        "score": 80.0
+    },
+    {
+        "id": 10,
+        "name": "Rohit",
+        "class": "EnTC",
+        "score": 82.0
+    },
+    {
+        "id": 11,
+        "name": "Satyam",
+        "class": "Comp",
+        "score": 87.0
+    },
+    {
+        "id": 13,
+        "name": "Shivam",
+        "class": "Comp",
+        "score": 77.0
+    },
+    {
+        "id": 20,
+        "name": "rohan",
+        "class": "mech",
+        "score": 96.0
+    },
+    {
+        "id": 56,
+        "name": "Rishita",
+        "class": "cse",
+        "score": 98.0
+    },
+    {
+        "id": 51,
+        "name": "Shibu",
+        "class": "mech",
+        "score": 89.0
+    }
+]

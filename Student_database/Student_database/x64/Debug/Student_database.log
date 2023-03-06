@@ -1,0 +1,3 @@
+﻿  Student_database.cpp
+LINK : warning LNK4067: ambiguous entry point; selected 'mainCRTStartup'
+  Student_database.vcxproj -> C:\Users\HP\Desktop\Intern Orientation Program\Student_database\x64\Debug\Student_database.exe
